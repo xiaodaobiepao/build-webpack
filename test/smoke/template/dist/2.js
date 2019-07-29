@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{11:function(n,t,e){"use strict";e.r(t);var i=e(0),o=e.n(i);t.default=function(){return o.a.createElement("div",null,"dontai import")}}}]);
